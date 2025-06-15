@@ -39,7 +39,7 @@ I'm still building my toolkit, but here’s what I am learning about:
 ### 💬 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/dayana-bright-abia-anchi-6356aa292)
-- brightdayana10 [at] gmail [dot] com
+- dayanabright68 [at] gmail [dot] com
 - 📬 Feel free to reach out — I love connecting with cool, curious minds.
 
 ---
