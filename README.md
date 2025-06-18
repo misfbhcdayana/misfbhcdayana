@@ -10,10 +10,10 @@
 Hey there! I’m **Dayana**, a curious and creative Computer Science student with a soft spot for melodies and a *mind that never stops asking "what if...?"*  
 Currently studying at the **University of the Free State**, I’m all about:
 
-- 💻 Exploring the world of code, step by step  
-- 🌍 Connecting tech with real-world impact  
-- 🧠 Growing as a leader and lifelong learner  
-- 🎧 Vibes: Anything soft, melodious & heart-warming  
+-  Exploring the world of code, step by step  
+-  Connecting tech with real-world impact  
+-  Growing as a leader and lifelong learner  
+-  Vibes: Anything soft, melodious & heart-warming  
 
 ---
 
@@ -29,10 +29,10 @@ I'm still building my toolkit, but here’s what I am learning about:
 
 ### 🎯 Goals
 
-- 🚀 Build and share more fun, meaningful projects  
-- 👥 Create impact through leadership and communication  
-- 🎓 Keep learning and growing in the tech world  
-- 💡 One day? Launch something BIG.
+-  Build and share more fun, meaningful projects  
+-  Create impact through leadership and communication  
+-  Keep learning and growing in the tech world  
+-  One day? Launch something BIG.
 
 ---
 
