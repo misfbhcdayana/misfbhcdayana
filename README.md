@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-Hey there! I’m **Dayana**, a curious and creative Computer Science student with a soft spot for melodies and a *mind that never stops asking "what if...?"*  
+Hey there! I’m **Dayana**, a curious Computer Science student with a soft spot for melodies and a *mind that never stops asking "what if...?"*  
 Currently studying at the **University of the Free State**, I’m all about:
 
 -  Exploring the world of code, step by step  
