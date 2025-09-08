@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Dayana
 
 ---
-An aspiring Software Engineer with keen interests in applied mathematics, software development, game development, systems, application and algorithm design, data structures, OOP, APIs, databases amongst others.
+An aspiring Software Engineer with keen interests in applied mathematics, software and game development, systems, application and algorithm design, data structures, OOP, APIs, databases amongst others.
 Currently studying Computer Science and Mathematics at the [University of the Free State](https://www.ufs.ac.za/), I lean mostly towards backend technologies and development.
 ---
 ### Learning & Tools
